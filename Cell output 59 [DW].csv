@@ -1,0 +1,6 @@
+Light_Conditions,Weather_Conditions,Road_Surface_Conditions,Speed_limit,Road_Type,Urban_or_Rural_Area,Accident_Severity
+1.0,1,1.0,Low_Speed,1,1,Severity_Slight
+4.0,1,1.0,Low_Speed,2,1,Severity_Slight
+4.0,1,1.0,Low_Speed,6,1,Severity_Slight
+4.0,1,1.0,Low_Speed,6,1,Severity_Serious
+4.0,1,1.0,Low_Speed,6,1,Severity_Slight

@@ -1,0 +1,21 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Speed_limit_Medium_Speed'}),"frozenset({'Accident_Severity_Severity_Serious', 'Urban_or_Rural_Area_2'})",0.05064076064489458,0.20161843368536553,2.5632672256733997
+frozenset({'Urban_or_Rural_Area_2'}),"frozenset({'Accident_Severity_Severity_Serious', 'Speed_limit_Medium_Speed'})",0.05064076064489458,0.15530082932755798,2.5062251417486325
+"frozenset({'Speed_limit_Medium_Speed', 'Road_Type_6'})",frozenset({'Accident_Severity_Severity_Serious'}),0.050192917183409125,0.27576417147724047,1.3741107835621553
+"frozenset({'Urban_or_Rural_Area_2', 'Speed_limit_Medium_Speed'})",frozenset({'Accident_Severity_Severity_Serious'}),0.05064076064489458,0.26724843196073084,1.331677535482979
+"frozenset({'Urban_or_Rural_Area_2', 'Road_Type_6'})",frozenset({'Accident_Severity_Severity_Serious'}),0.06067417665702081,0.2650688539393483,1.320816872740778
+frozenset({'Speed_limit_Low_Speed'}),"frozenset({'Urban_or_Rural_Area_1', 'Accident_Severity_Severity_Serious'})",0.10929102935097147,0.15899665468031524,1.3033123592121965
+frozenset({'Speed_limit_Medium_Speed'}),"frozenset({'Accident_Severity_Severity_Serious', 'Road_Type_6'})",0.050192917183409125,0.1998354135235222,1.279122907113738
+frozenset({'Urban_or_Rural_Area_1'}),"frozenset({'Speed_limit_Low_Speed', 'Accident_Severity_Severity_Serious'})",0.10929102935097147,0.1622305745186776,1.2775987838112244
+"frozenset({'Weather_Conditions_1', 'Speed_limit_Medium_Speed'})",frozenset({'Accident_Severity_Severity_Serious'}),0.05007234394377842,0.2533885378078013,1.2626147928048848
+frozenset({'Urban_or_Rural_Area_2'}),"frozenset({'Light_Conditions_1.0', 'Accident_Severity_Severity_Serious'})",0.05631631528179688,0.17270614336273837,1.2563909352881573
+frozenset({'Speed_limit_Medium_Speed'}),"frozenset({'Weather_Conditions_1', 'Accident_Severity_Severity_Serious'})",0.05007234394377842,0.1993553696337951,1.2336806842679324
+"frozenset({'Weather_Conditions_1', 'Urban_or_Rural_Area_2'})",frozenset({'Accident_Severity_Severity_Serious'}),0.06316315281796886,0.24683629509962307,1.2299654920868353
+frozenset({'Speed_limit_Medium_Speed'}),frozenset({'Accident_Severity_Severity_Serious'}),0.06196603279592118,0.24670827047044303,1.2293275556117107
+"frozenset({'Road_Surface_Conditions_1.0', 'Urban_or_Rural_Area_2'})",frozenset({'Accident_Severity_Severity_Serious'}),0.053009163566211936,0.24651553989106056,1.2283671945683128
+frozenset({'Weather_Conditions_1'}),"frozenset({'Accident_Severity_Severity_Serious', 'Road_Surface_Conditions_1.0'})",0.13424107758026732,0.16946075233746466,1.2079579394319908
+frozenset({'Urban_or_Rural_Area_2'}),frozenset({'Accident_Severity_Severity_Serious'}),0.07865681411051399,0.24121810786540596,1.20197051499734
+frozenset({'Urban_or_Rural_Area_2'}),"frozenset({'Weather_Conditions_1', 'Accident_Severity_Severity_Serious'})",0.06316315281796886,0.19370344936876024,1.198704626824361
+frozenset({'Urban_or_Rural_Area_2'}),"frozenset({'Accident_Severity_Severity_Serious', 'Road_Type_6'})",0.06067417665702081,0.18607046643072211,1.1910151046418966
+"frozenset({'Light_Conditions_1.0', 'Urban_or_Rural_Area_2'})",frozenset({'Accident_Severity_Severity_Serious'}),0.05631631528179688,0.23670588235294115,1.1794864566030685
+frozenset({'Road_Surface_Conditions_1.0'}),"frozenset({'Weather_Conditions_1', 'Accident_Severity_Severity_Serious'})",0.13424107758026732,0.189470741253981,1.1725111500550147
